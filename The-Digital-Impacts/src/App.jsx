@@ -5,6 +5,7 @@ import Home from './components/Home/home';
 import Services from './components/Servi/services';
 import About from './components/About/about';
 import Portfolio from './components/Portfolio/portfolio';
+import Contact from './components/Contact/contact';
 function App() {
   return (
     <>
@@ -13,8 +14,8 @@ function App() {
       <Services/>
       <About/>
       <Portfolio/>
+      <Contact/>
     </>
   )
 }
-
 export default App;

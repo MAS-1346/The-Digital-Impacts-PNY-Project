@@ -40,6 +40,7 @@ const Services = () => {
                 and nuances in your industry</p>
             </div>
             <div className="imgs"></div>
+            
         </>
     )
 }

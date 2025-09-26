@@ -34,6 +34,7 @@ span {
     align-items: center;
     justify-content: center;
     flex-direction: column;
+    box-shadow: rgb(7, 150, 214) 2px 2px 8px;
     border-top: 0.4rem solid #0796d6;
     border-bottom: 0.5rem solid #0796d6;
     border-radius: 15px;
