@@ -1,0 +1,39 @@
+.footer{
+    width: 100%;
+    background-color: #0796d6;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.footeritems{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.footercontent{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: start;
+    padding: 2rem 0;
+    color: white;
+    gap: 2rem;
+    flex-wrap: wrap;
+}
+.footercontent h3{
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: black;
+}
+.footercontent img{
+    width: 7rem;
+}
+.borderline{
+    width: 80%;
+    height: 0.2rem;
+    background-color: white;
+}
+.footer h4{
+    color: white;
+    padding: 1rem 0;
+}
